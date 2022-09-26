@@ -3,9 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="./index.css">
+<meta charset="UTF-8" />
 <title>Insert title here</title>
-<link rel="stylesheet" href="./style.css"/>
 </head>
 <body>
 	<header>쇼핑물관리시스템</header>
