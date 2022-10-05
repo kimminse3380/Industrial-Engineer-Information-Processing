@@ -5,9 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" href="./style.css"/>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	
+	<footer>
+		Copyright @ 서울문화고등학교 사물인터넷과 All Right Reserved
+	</footer>
 </body>
 </html>
